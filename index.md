@@ -1,5 +1,5 @@
-## Faça o download e rode na sua IDE
-
+## Como Usar
+Faça um fork, e rode na sua IDE
 
 
 
