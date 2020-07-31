@@ -1,6 +1,6 @@
-## Como Usar
+## Faça o download e rode na sua IDE
 
-Faça o download e rode na sua IDE
+
 
 
 
